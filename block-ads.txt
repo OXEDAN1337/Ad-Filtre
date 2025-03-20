@@ -1,12 +1,15 @@
 ||ads.js^
 ||pagead.js^
 ||kimbinogreen.app^
-||*-android-context-data.googleapis.com^
+||kimbinogreen.app.link^
+||apps.apple.com^
+||appgallery.huawei.com^
+! ||*-android-context-data.googleapis.com^
 ! ||*-chromecontentsuggestions-pa.googleapis.com^
 ||adgoogle.net^
 ||crashlytics.com^
 ||google-analytics-cn.com^
-||google-analytics.com^
+! ||google-analytics.com^
 ||googleadservices-cn.com^
 ! ||googlehosted.com^
 ||googleoptimize-cn.com^
@@ -15,7 +18,7 @@
 ||googletagmanager.com^
 ! ||googletagservices.com^
 ||googlevads-cn.com^
-||speechs3proto*-pa.googleapis.com^
+! ||speechs3proto*-pa.googleapis.com^
 ! ||android.com^
 ||kormo.com^
 ||rivet.area120.com^
@@ -43,7 +46,7 @@
 ||chromeenterprise.google^
 ||chromexperiments.com^
 ||cloud.run^
-||com.google^
+! ||com.google^
 ||content-signature-chains.prod.webservices.mozgcp.net^
 ||digitalkeypairing.org^
 ||face-indexing.com^
@@ -262,12 +265,12 @@
 ||google.vu^
 ||google.ws^
 ||googleadservices.com^
-||googleanalytics.com^
+! ||googleanalytics.com^
 ! ||googleapis.co^
 ! ||googleapps.com^
 ||googlearth.com^
-||googleblog.com^
-||googlebot.com^
+! ||googleblog.com^
+! ||googlebot.com^
 ||googlecdn.org^
 ||googlecloudpresscorner.com^
 ! ||googlecode.com^
@@ -283,7 +286,7 @@
 ||googlescholar.com^
 ||googlesyndication-cn.com^
 ||googlesyndication.com^
-||googletranslate.com^
+! ||googletranslate.com^
 ||googleweblight.com^
 ||googlr.com^
 ||goolge.com^
@@ -1563,16 +1566,16 @@
 ||g.co^
 ! ||yt.be^
 ! ||withyoutube.com^
-||youtube-nocookie.com^
-||youtube.be^
+! ||youtube-nocookie.com^
+! ||youtube.be^
 ||youtube.co.uk^
 ||youtube.de^
 ||youtube.es^
 ||youtube.fr^
 ||youtube.nl^
 ||youtube.pl^
-||youtubeeducation.com^
-||youtubegaming.com^
+! ||youtubeeducation.com^
+! ||youtubegaming.com^
 ! ||ytimg.com^
 ||fitbit.com^
 ||GCP02-NF-01.corp.fitbit.com^
