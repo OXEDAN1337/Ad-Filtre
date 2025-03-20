@@ -8,7 +8,7 @@
 ||google-analytics-cn.com^
 ||google-analytics.com^
 ||googleadservices-cn.com^
-||googlehosted.com^
+! ||googlehosted.com^
 ||googleoptimize-cn.com^
 ! ||googleoptimize.com^
 ||googletagmanager-cn.com^
@@ -1561,7 +1561,7 @@
 ! ||waze.com^
 ||www.tiltbrush.com^
 ||g.co^
-||yt.be^
+! ||yt.be^
 ! ||withyoutube.com^
 ||youtube-nocookie.com^
 ||youtube.be^
