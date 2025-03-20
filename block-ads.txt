@@ -12,7 +12,7 @@
 ! ||google-analytics.com^
 ||googleadservices-cn.com^
 ! ||googlehosted.com^
-||googleoptimize-cn.com^
+! ||googleoptimize-cn.com^
 ! ||googleoptimize.com^
 ||googletagmanager-cn.com^
 ||googletagmanager.com^
@@ -24,8 +24,8 @@
 ||rivet.area120.com^
 ||staykeen.com^
 ||tangi.co^
-! ||gstatic.com^
-! ||gstatic.net^
+||gstatic.com^
+||gstatic.net^
 ||KQu0cL-dnsotls-ds.metric.gstatic.com^
 ||2mdn-cn.net^
 ||2mdn.net^
@@ -268,10 +268,10 @@
 ! ||googleanalytics.com^
 ! ||googleapis.co^
 ! ||googleapps.com^
-||googlearth.com^
+! ||googlearth.com^
 ! ||googleblog.com^
 ! ||googlebot.com^
-||googlecdn.org^
+! ||googlecdn.org^
 ||googlecloudpresscorner.com^
 ! ||googlecode.com^
 ||googlecommerce.com^
@@ -715,13 +715,13 @@
 ||google.us^
 ! ||googleaccountservices.com^
 ||googleacquisitionmigration.com^
-||googleadapis.com^
+! ||googleadapis.com^
 ||googleads-cn.com^
 ||googleads.com^
-||googleadsserving.cn^
+! ||googleadsserving.cn^
 ||googleadwords.com^
 ||googleailesi.com^
-||googleapis.com^
+! ||googleapis.com^
 ||googleartproject.com^
 ||googleoptimizasyonu.biz^
 ||googlepartnerconnect.com^
