@@ -739,7 +739,7 @@
 ||googletagservices-cn.com^
 ||googletraveladservices-cn.com^
 ||googletraveladservices.com^
-! ||googleusercontent.com^
+||googleusercontent.com^
 ! ||googlevideo.com^
 ||googlew.com^
 ||googlezip.net^
@@ -988,7 +988,7 @@
 ||w6uur1tfma.com^
 ||w8kq31rrw2.com^
 ||web.dev^
-! ||webcache-googleusercontent-com.recaptcha.ampproject.net^
+||webcache-googleusercontent-com.recaptcha.ampproject.net^
 ||wgh335ezn4.com^
 ||whatbrowser.org^
 ||wintricksbanner.googlepages.com^
