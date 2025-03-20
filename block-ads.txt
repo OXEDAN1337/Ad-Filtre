@@ -19,7 +19,7 @@
 ||googleoptimize.com^
 ||googletagmanager-cn.com^
 ||googletagmanager.com^
-||googletagservices.com^
+! ||googletagservices.com^
 ||googlevads-cn.com^
 ||speechs3proto*-pa.googleapis.com^
 ||android.com^
@@ -342,7 +342,7 @@
 ||urchin.fr^
 ||www.google.com.tn^
 ||www.google.it.ao^
-||youtube-3rd-party.com^
+! ||youtube-3rd-party.com^
 ||doubleclick-cn.net^
 ||doubleclick.com^
 ||doubleclick.de^
@@ -714,7 +714,7 @@
 ||google.nf^
 ||google.qualtrics.com^
 ||google.us^
-||googleaccountservices.com^
+! ||googleaccountservices.com^
 ||googleacquisitionmigration.com^
 ||googleadapis.com^
 ||googleads-cn.com^
