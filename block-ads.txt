@@ -8,7 +8,7 @@
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||*-android-context-data.googleapis.com^
-||*-chromecontentsuggestions-pa.googleapis.com^
+! ||*-chromecontentsuggestions-pa.googleapis.com^
 ||adgoogle.net^
 ||crashlytics.com^
 ||google-analytics-cn.com^
@@ -335,7 +335,7 @@
 ||slides.new^
 ! ||sre.google^
 ||stories.google^
-||syndicatedsearch.goog^
+! ||syndicatedsearch.goog^
 ! ||translate.goog^
 ! ||tv.google^
 ||urbanengines.com^
@@ -706,8 +706,8 @@
 ||google-analytycs.com^
 ! ||google-pagerank.net^
 ||google-partners.net^
-||google-syndicatedsearch.net^
-||google-syndication.com^
+! ||google-syndicatedsearch.net^
+! ||google-syndication.com^
 ||google.cx^
 ||google.dev^
 ||google.eu^
@@ -989,7 +989,7 @@
 ||w6uur1tfma.com^
 ||w8kq31rrw2.com^
 ||web.dev^
-||webcache-googleusercontent-com.recaptcha.ampproject.net^
+! ||webcache-googleusercontent-com.recaptcha.ampproject.net^
 ||wgh335ezn4.com^
 ||whatbrowser.org^
 ||wintricksbanner.googlepages.com^
@@ -1566,7 +1566,7 @@
 ||www.tiltbrush.com^
 ||g.co^
 ||yt.be^
-||withyoutube.com^
+! ||withyoutube.com^
 ||youtube-nocookie.com^
 ||youtube.be^
 ||youtube.co.uk^
