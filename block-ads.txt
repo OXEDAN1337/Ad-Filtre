@@ -1,5 +1,6 @@
 ||ads.js^
 ||pagead.js^
+||kimbinogreen.app^
 ||*-android-context-data.googleapis.com^
 ! ||*-chromecontentsuggestions-pa.googleapis.com^
 ||adgoogle.net^
