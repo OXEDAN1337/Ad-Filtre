@@ -9,13 +9,13 @@
 ||adgoogle.net^
 ||crashlytics.com^
 ||google-analytics-cn.com^
-! ||google-analytics.com^
+||google-analytics.com^
 ||googleadservices-cn.com^
 ! ||googlehosted.com^
-! ||googleoptimize-cn.com^
+||googleoptimize-cn.com^
 ! ||googleoptimize.com^
 ||googletagmanager-cn.com^
-||googletagmanager.com^
+! ||googletagmanager.com^
 ! ||googletagservices.com^
 ||googlevads-cn.com^
 ! ||speechs3proto*-pa.googleapis.com^
@@ -715,10 +715,10 @@
 ||google.us^
 ! ||googleaccountservices.com^
 ||googleacquisitionmigration.com^
-! ||googleadapis.com^
+||googleadapis.com^
 ||googleads-cn.com^
 ||googleads.com^
-! ||googleadsserving.cn^
+||googleadsserving.cn^
 ||googleadwords.com^
 ||googleailesi.com^
 ! ||googleapis.com^
@@ -775,7 +775,7 @@
 ||iga2k8wv8k.com^
 ||ih275irlc0.com^
 ||ikknil4o42.com^
-||IMAGEs.google.com^
+! ||IMAGEs.google.com^
 ||img1.blogblog.com^
 ||incentelligence.com^
 ||incentivetargeting.com^
@@ -878,10 +878,10 @@
 ||odbetzy40u.com^
 ||of43chlfhq.com^
 ||okev9r02vb.com^
-||okgoogle.net^
+! ||okgoogle.net^
 ||oldo5rrwhw.com^
 ||onka64mqbc.com^
-||opensource.google^
+! ||opensource.google^
 ||ordering.page^
 ||p1xjhr2ipa.com^
 ||p698ke6uwk.com^
@@ -1055,8 +1055,8 @@
 ||gmailbuzz.dk^
 ||gmailer.de^
 ||gmails.de^
-||gmailtechnicalsupport.net^
-||gmailtechsupport.org^
+! ||gmailtechnicalsupport.net^
+! ||gmailtechsupport.org^
 ||googlemail.com^
 ||0utlookmxupdates1.page.link^
 ||0utlookmxverification1.page.link^
