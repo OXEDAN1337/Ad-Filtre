@@ -16,19 +16,19 @@
 ||googleadservices-cn.com^
 ||googlehosted.com^
 ||googleoptimize-cn.com^
-||googleoptimize.com^
+! ||googleoptimize.com^
 ||googletagmanager-cn.com^
 ||googletagmanager.com^
 ! ||googletagservices.com^
 ||googlevads-cn.com^
 ||speechs3proto*-pa.googleapis.com^
-||android.com^
+! ||android.com^
 ||kormo.com^
 ||rivet.area120.com^
 ||staykeen.com^
 ||tangi.co^
-||gstatic.com^
-||gstatic.net^
+! ||gstatic.com^
+! ||gstatic.net^
 ||KQu0cL-dnsotls-ds.metric.gstatic.com^
 ||2mdn-cn.net^
 ||2mdn.net^
@@ -66,7 +66,7 @@
 ||gmodules.com^
 ||gogle.com^
 ||gogole.com^
-||goo.gle^
+! ||goo.gle^
 ||googel.com^
 ||googil.com^
 ||googl.com^
@@ -269,21 +269,21 @@
 ||google.ws^
 ||googleadservices.com^
 ||googleanalytics.com^
-||googleapis.co^
-||googleapps.com^
+! ||googleapis.co^
+! ||googleapps.com^
 ||googlearth.com^
 ||googleblog.com^
 ||googlebot.com^
 ||googlecdn.org^
 ||googlecloudpresscorner.com^
-||googlecode.com^
+! ||googlecode.com^
 ||googlecommerce.com^
-||googledomains.com^
-||googledrive.com^
+! ||googledomains.com^
+! ||googledrive.com^
 ||googlee.com^
 ||googleearth.com^
-||googlegroups.com^
-||googlemaps.com^
+! ||googlegroups.com^
+! ||googlemaps.com^
 ||googlemerchandisestore.com^
 ||googlepagecreator.com^
 ||googlescholar.com^
@@ -331,13 +331,13 @@
 ||screenwiseselect.com^
 ||screenwisetrends.com^
 ||screenwisetrendspanel.com^
-||simtransfer.goog^
+! ||simtransfer.goog^
 ||slides.new^
-||sre.google^
+! ||sre.google^
 ||stories.google^
 ||syndicatedsearch.goog^
-||translate.goog^
-||tv.google^
+! ||translate.goog^
+! ||tv.google^
 ||urbanengines.com^
 ||urchin.fr^
 ||www.google.com.tn^
@@ -352,7 +352,7 @@
 ||doubleclicksearch.com^
 ||doubleclickusercontent.com^
 ||googledoubleclick.net^
-||googlefiber.net^
+! ||googlefiber.net^
 ||firebase.com^
 ||firebase.dev^
 ||firebase.io^
@@ -486,7 +486,7 @@
 ||a8e56f4zm9.com^
 ||abc.xyz^
 ||abcdefghijklmnopqrstuvwxyz.com^
-||about.google^
+! ||about.google^
 ||acceleratewithgoogle.com^
 ||admeld.at^
 ||admeld.com^
@@ -568,7 +568,7 @@
 ||ampproject.org^
 ||amwbp6elqd.com^
 ||an5ywmva51.com^
-||api-googlemaps.net^
+! ||api-googlemaps.net^
 ||app-measurement-cn.com^
 ||appliedsemantics.com^
 ||apps5.oingo.com^
@@ -633,7 +633,7 @@
 ||deepmind.google^
 ||deliver-peak-performance.co.uk^
 ||deliverpeakperformance.co.uk^
-||design.google^
+! ||design.google^
 ||DeSKtoP.google.com^
 ||dh2yuuwr45.com^
 ||dh5txcojmw.com^
@@ -643,7 +643,7 @@
 ||dlhaxa82xp.com^
 ||dlut31p12z.com^
 ||dmtry.com^
-||dns.google^
+! ||dns.google^
 ||doodle4google.com^
 ||dp1msx93o1.com^
 ||dszj1hsjze.com^
@@ -704,7 +704,7 @@
 ||google-anallytics.info^
 ||google-analytics.bi.owox.com^
 ||google-analytycs.com^
-||google-pagerank.net^
+! ||google-pagerank.net^
 ||google-partners.net^
 ||google-syndicatedsearch.net^
 ||google-syndication.com^
@@ -740,11 +740,11 @@
 ||googletagservices-cn.com^
 ||googletraveladservices-cn.com^
 ||googletraveladservices.com^
-||googleusercontent.com^
-||googlevideo.com^
+! ||googleusercontent.com^
+! ||googlevideo.com^
 ||googlew.com^
 ||googlezip.net^
-||gooogleapi.com^
+! ||gooogleapi.com^
 ||gp3gie1qbl.com^
 ||grow.google^
 ||gseacnw61z.com^
@@ -864,10 +864,10 @@
 ||nnlyu0swp0.com^
 ||nqp8358ik8.com^
 ||nrryyv92gi.com^
-||ns1.zdns.google^
-||ns2.zdns.google^
-||ns3.zdns.google^
-||ns4.zdns.google^
+! ||ns1.zdns.google^
+! ||ns2.zdns.google^
+! ||ns3.zdns.google^
+! ||ns4.zdns.google^
 ||nsk6ee6764.com^
 ||nvds6yqjm4.com^
 ||nwf07zk49q.com^
@@ -1558,11 +1558,11 @@
 ||zdgg2n2.page.link^
 ||zfreebonusopros20.page.link^
 ||zzzfreebonusopros20.page.link^
-||chrome.com^
+! ||chrome.com^
 ||coral.ai^
-||domains.google^
+! ||domains.google^
 ||idx.dev^
-||waze.com^
+! ||waze.com^
 ||www.tiltbrush.com^
 ||g.co^
 ||yt.be^
@@ -1577,7 +1577,7 @@
 ||youtube.pl^
 ||youtubeeducation.com^
 ||youtubegaming.com^
-||ytimg.com^
+! ||ytimg.com^
 ||fitbit.com^
 ||GCP02-NF-01.corp.fitbit.com^
 ||GlobalVPN.corp.fitbit.com^
