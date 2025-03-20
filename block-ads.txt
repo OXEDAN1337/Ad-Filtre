@@ -7,6 +7,8 @@
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||ads.js^
+||pagead.js^
 ||*-android-context-data.googleapis.com^
 ! ||*-chromecontentsuggestions-pa.googleapis.com^
 ||adgoogle.net^
@@ -351,6 +353,7 @@
 ||doubleclickbygoogle.com^
 ||doubleclicksearch.com^
 ||doubleclickusercontent.com^
+||ad.doubleclick.net^
 ||googledoubleclick.net^
 ! ||googlefiber.net^
 ||firebase.com^
@@ -533,6 +536,7 @@
 ||adservice.google.pk^
 ||adservice.google.tw^
 ||adservice.google.ua^
+||adservice.google.com^
 ||adsextramilage.co.uk^
 ||adsextramileage.com^
 ||adsgoogle.com^
