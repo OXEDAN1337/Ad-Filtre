@@ -1,7 +1,11 @@
 ! ===== Cookie / CMP list=====
+! InMobi Choice
+||cmp.inmobi.com^
 ! Sourcepoint
 ||sourcepointcmp.bloomberg.com^
-! OneTrust
+||sourcepoint.mgr.consensu.org^
+||cdn.privacy-mgmt.com^
+! OneTrust / CookiePro
 ||cdn.cookielaw.org^
 ||cookie-cdn.cookiepro.com^
 ! Consentmanager
@@ -9,16 +13,47 @@
 ||c.delivery.consentmanager.net^
 ! Usercentrics
 ||usercentrics.eu^
+||usercentrics.com^
 ! Cookiebot
 ||cookiebot.com^
+||consent.cookiebot.com^
+||consentcdn.cookiebot.com^
 ! TrustArc
 ||consent.trustarc.com^
 ! Quantcast
 ||quantcast.mgr.consensu.org^
-! Consent framework / generic CMP
+! UniConsent
 ||cmp.uniconsent.com^
+! Confirmic
 ||confirmic.com^
-||consentmanager.net^
+! Didomi
+||privacy-center.org^
+||sdk.privacy-center.org^
+! CookieYes
+||cdn-cookieyes.com^
+! iubenda
+||cdn.iubenda.com^
+||consent.iubenda.com^
+! Osano
+||cmp.osano.com^
+! CookieScript
+||cdn.cookie-script.com^
+! Termly
+||cdn.termly.io^
+! Axeptio
+||static.axept.io^
+! Sirdata
+||cdn.sirdata.net^
+! Google Funding Choices
+||fundingchoicesmessages.google.com^
+! Cookie Information
+||policy.app.cookieinformation.com^
+! Ketch
+||global.ketchcdn.com^
+! LiveRamp / Faktor
+||cmp.choice.faktor.io^
+! Crownpeak / Evidon
+||iabmap.evidon.com^
 !  ===== End list  =====
 ||catalog.gamepass.com^
 ||ads.js^
