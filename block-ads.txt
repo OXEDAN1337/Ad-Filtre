@@ -94,6 +94,7 @@
 ||cookie-control.com^
 !  ===== End list  =====
 ||a-ads.com^
+||ad.a-ads.com^
 ||catalog.gamepass.com^
 ||ads.js^
 ||pagead.js^
