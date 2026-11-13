@@ -1,3 +1,25 @@
+! ===== Cookie / CMP list=====
+! Sourcepoint
+||sourcepointcmp.bloomberg.com^
+! OneTrust
+||cdn.cookielaw.org^
+||cookie-cdn.cookiepro.com^
+! Consentmanager
+||delivery.consentmanager.net^
+||c.delivery.consentmanager.net^
+! Usercentrics
+||usercentrics.eu^
+! Cookiebot
+||cookiebot.com^
+! TrustArc
+||consent.trustarc.com^
+! Quantcast
+||quantcast.mgr.consensu.org^
+! Consent framework / generic CMP
+||cmp.uniconsent.com^
+||confirmic.com^
+||consentmanager.net^
+!  ===== End list  =====
 ||catalog.gamepass.com^
 ||ads.js^
 ||pagead.js^
