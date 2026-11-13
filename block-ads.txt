@@ -54,6 +54,44 @@
 ||cmp.choice.faktor.io^
 ! Crownpeak / Evidon
 ||iabmap.evidon.com^
+! Complianz - WordPress
+||complianz.io^
+! Silktide Cookie Consent
+||silktide.com^
+! Cookie Notice
+||cookie-notice.com^
+! Cookie Compliance
+||cookiecompliance.com^
+! PrivacyPolicies
+||privacypolicies.com^
+! TermsFeed
+||termsfeed.com^
+! WP Consent
+||wpconsent.com^
+! Pandectes
+||pandectes.io^
+! CookieHub
+||cookiehub.eu^
+! CookieFirst
+||cookiefirst.com^
+! Cookie Bar
+||cookie-bar.eu^
+! Secure Privacy
+||secureprivacy.ai^
+! TRUENDO
+||truendo.com^
+! Clickio Consent
+||clickio.com^
+! Consentmo
+||consentmo.com^
+! ConsentBit
+||consentbit.com^
+! Consentik
+||consentik.com^
+! Acceptrics
+||acceptrics.com^
+! Civic Cookie Control
+||cookie-control.com^
 !  ===== End list  =====
 ||catalog.gamepass.com^
 ||ads.js^
